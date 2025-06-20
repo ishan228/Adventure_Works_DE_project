@@ -96,9 +96,9 @@ README.md
 
 ## 📷 Screenshots
 
-| ADF Pipeline | Databricks Transformation |
-| ------------ | ------------------------- | 
-|              |                           |           
+| ADF Pipeline |
+| ------------ | 
+| ![Pipeline](images/pipeline_adv_works.png)             |                     
 
 ---
 
