@@ -35,12 +35,11 @@ Adventure_Works_DE_project/
 🗄️   notebooks/
 🗄️ synapse/
 🗄️   sql/
-🗄️ powerbi/
-🗄️   dashboard.png
 🗄️ dataset/
 🗄️   sample-data.csv
 🗄️ images/
 🗄️   architecture-diagram.png
+🗄️   adf_pipline.png
 README.md
 ```
 
